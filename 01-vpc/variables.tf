@@ -7,7 +7,7 @@ variable "project_id" {
 variable "project_number" {
   description = "GCP project number"
   type        = string
-  default     = "213255326745"
+  default     = "Your-account-number"
 }
 
 variable "region" {
